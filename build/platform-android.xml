@@ -1,0 +1,7 @@
+<platform xmlns="http://ns.adobe.com/air/extension/23.0">
+    <packagedDependencies>
+        <packagedDependency>android-support-v4.jar</packagedDependency>
+    </packagedDependencies>
+    <packagedResources>
+    </packagedResources>
+</platform>
